@@ -1,0 +1,40 @@
+.box1{
+    background-color: yellow;
+    box-sizing: border-box;
+    border: solid;
+    width: 150px;
+    height: 550px;
+    margin-left: 200px;
+    float: left;
+}
+
+.box2{
+    background-color:rgb(70, 170, 236);
+    box-sizing: border-box;
+    border: solid;
+    width: 150px;
+    height: 550px;
+    margin-right: 17em;
+    float: right;
+}
+
+.box3{
+    background-color: lightgreen;
+    box-sizing: border-box;
+    border: solid;
+    width: 150px;
+    height: 550px;
+    margin-right: 4em;
+    float: right;
+}
+.box4{
+    background-color:rgb(252, 59, 10);
+    box-sizing: border-box;
+    border: solid;
+    width: 150px;
+    height: 550px;
+    margin-right: 4em;
+    float: right;
+}
+
+
